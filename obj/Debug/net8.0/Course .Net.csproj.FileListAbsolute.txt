@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Course .Net\bin\Debug\net8.0\Course .Net.exe
+C:\Users\Admin\source\repos\Course .Net\bin\Debug\net8.0\Course .Net.deps.json
+C:\Users\Admin\source\repos\Course .Net\bin\Debug\net8.0\Course .Net.runtimeconfig.json
+C:\Users\Admin\source\repos\Course .Net\bin\Debug\net8.0\Course .Net.dll
+C:\Users\Admin\source\repos\Course .Net\bin\Debug\net8.0\Course .Net.pdb
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\Course .Net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\Course .Net.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\Course .Net.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\Course .Net.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\Course .Net.dll
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\refint\Course .Net.dll
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\Course .Net.pdb
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\Course .Net.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Course .Net\obj\Debug\net8.0\ref\Course .Net.dll
